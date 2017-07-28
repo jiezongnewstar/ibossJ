@@ -1,14 +1,14 @@
 # Site
-title:              Jie
-bio:                '欢迎来到我的博客.'
-description:        '一个和尚抬水吃.'
+title:              Moon
+bio:                'Minimal, one column jekyll theme.'
+description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_CN
-url:                https://jiezongnewstar.github.io/ibossJ
+url:                https://taylantatli.github.io/Moon
 
 # Jekyll
 permalink:          /:title/
@@ -26,31 +26,31 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   jiezongnewstar
+disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  plus:             ibossjia@gmail.com
+  #plus:            #username
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              ibossjia@gmail.com
-#twitter:           username
-#facebook:          username
-github-url:         jiezongnewstar
+#email:
+twitter:            username
+facebook:           username
+github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
-xing:               542731522
-#instagram:          username
+#xing:              username
+instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -70,7 +70,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com/jiezongnewstar
+    base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
