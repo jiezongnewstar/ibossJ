@@ -6,29 +6,24 @@ date: 2017-07-28
 comments: false
 ---
     
-<center><a href="http://jiezongnewstar.github.io/ibossJ"><b>ibossJ</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://jiezongnewstar.github.io/ibossJ"><b>ibossJ</b></a> 是我的github io 个人博客.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 简述
+* 一个Android开发人员
+* 一个杂七杂八的技术爱好者
+* 一位灵魂歌手
+* 一位相声演员
+* 还有,请告诉我什么叫‘极客精神’
+* QQ : 542731522
+* 微信 : 542731522
+* Gmial : ibossjia@gmail.com
+* CSDN : blog.csdn.net/baidu_35255405
+* From : China
+* Now Location: HangZhou
 
-## Preview
+## 如果你喜欢,可以分享给你
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+See a [Jie's GitHub io](http://jiezongnewstar.github.io/ibossJ) on GitHub.
 
 ## Getting Started
       
