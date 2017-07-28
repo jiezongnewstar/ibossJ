@@ -32,4 +32,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 ## Getting Started
       
-[Install Moon](https://github.com/jiezongnewstar/ibossJ){: .btn}
+[Install ibossJ](https://github.com/jiezongnewstar/ibossJ){: .btn}
