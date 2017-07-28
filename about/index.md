@@ -1,9 +1,9 @@
 ---
 layout: page
 title: 关于我
-tags: [about, Jekyll, theme, moon]
+tags: [about, Jekyll, theme, ibossJ]
 date: 2017-07-28
-comments: false
+comments: true
 ---
     
 <center><a href="http://jiezongnewstar.github.io/ibossJ"><b>ibossJ</b></a> 是我的github io 个人博客.</center>
